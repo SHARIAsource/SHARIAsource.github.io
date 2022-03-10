@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mecelle-flow/static/css/main.b5de628d.css",
+    "main.js": "/mecelle-flow/static/js/main.0d903933.js",
+    "static/js/787.7b67bac6.chunk.js": "/mecelle-flow/static/js/787.7b67bac6.chunk.js",
+    "index.html": "/mecelle-flow/index.html",
+    "main.b5de628d.css.map": "/mecelle-flow/static/css/main.b5de628d.css.map",
+    "main.0d903933.js.map": "/mecelle-flow/static/js/main.0d903933.js.map",
+    "787.7b67bac6.chunk.js.map": "/mecelle-flow/static/js/787.7b67bac6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5de628d.css",
+    "static/js/main.0d903933.js"
+  ]
+}
